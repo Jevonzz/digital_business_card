@@ -1,7 +1,7 @@
 # Web Preview
 
 ![Alt text](image.png)
-This project mainly used to self reference.
+Self Study Project.
 
 # Getting Started with Create React App
 
