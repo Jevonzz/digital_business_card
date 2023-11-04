@@ -1,7 +1,7 @@
 # Web Preview
-
-![Alt text](image.png)
 Self Study Project.
+![Alt text](image.png)
+
 
 # Getting Started with Create React App
 
